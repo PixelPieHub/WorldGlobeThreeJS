@@ -1,6 +1,6 @@
 # WorldGlobeThreeJS
 
-![](https://github.com/PixelPieHub/WorldGlobeThreeJS/blob/main/ezgif-7-2234381af0.gif)
+![](https://github.com/PixelPieHub/WorldGlobeThreeJS/blob/main/Word.gif)
 
 ## Option 1: Import packages with NPM
 
