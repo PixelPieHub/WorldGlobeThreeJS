@@ -1,14 +1,22 @@
-## Option 1:
+# WorldGlobeThreeJS
+
+## Option 1: Import packages with NPM
 
 1. Install [Node.js](https://nodejs.org/). We'll need it to load manage dependencies and to run our build tool.
 
-2. Run serve to start a local server in the project's directory:
+2. install the packages in the project's directory:
+
+    ```
+    npm install
+    ```
+
+3. Run serve to start a local server in the project's directory:
 
     ```
     npx serve
     ```
 
-## Option 2: Install with NPM and a build tool
+## Option 2: Install packages from hand
 
 1. Install [Node.js](https://nodejs.org/). We'll need it to load manage dependencies and to run our build tool.
 
