@@ -4,7 +4,7 @@
 
 ## Option 1: Import packages with NPM
 
-1. Install [Node.js](https://nodejs.org/). We'll need it to load manage dependencies and to run our build tool.
+1. Install [Node.js](https://nodejs.org/). We'll need it to load manage dependencies.
 
 2. install the packages in the project's directory:
 
