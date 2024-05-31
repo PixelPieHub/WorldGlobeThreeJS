@@ -1,5 +1,7 @@
 # WorldGlobeThreeJS
 
+![](https://github.com/PixelPieHub/WorldGlobeThreeJS/blob/main/ezgif-7-2234381af0.gif)
+
 ## Option 1: Import packages with NPM
 
 1. Install [Node.js](https://nodejs.org/). We'll need it to load manage dependencies and to run our build tool.
